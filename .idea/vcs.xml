@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Generative_Examples/gans-awesome-applications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Generative_Examples/generative-unconditional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Generative_Examples/pytorch_GAN_zoo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unconditional/Generative/gans-awesome-applications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unconditional/Generative/generative-unconditional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unconditional/Generative/pytorch_GAN_zoo" vcs="Git" />
+  </component>
+</project>
